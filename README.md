@@ -1,2 +1,2 @@
 # CSCE145
-Code Written for CSCE 145 (Freshman Fall)
+Code Written for CSCE 145- Algorithmic Design (Freshman Fall)
